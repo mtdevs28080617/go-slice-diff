@@ -18,7 +18,7 @@ diff := slice_diff.SliceDiff[string](listA, listB)
 log.Println(diff) // []string{"D"}
 
 listA := []int{1, 2, 3}
-listB := []string{1, 2, 4}
+listB := []int{1, 2, 4}
 
 diff := slice_diff.SliceDiff[int](listA, listB)
 
