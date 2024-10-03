@@ -5,7 +5,7 @@ Returns the difference between two slices
 
 ### Installation
 ```go
-go get github.com/matt9mg/go-slice-diff
+go get github.com/mtdevs28080617/go-slice-diff
 ```
 
 ### Examples
